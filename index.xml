@@ -33,7 +33,7 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
+      <title>A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space</title>
       <link>https://wenchongh.github.io/publication/conference-paper/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://wenchongh.github.io/publication/conference-paper/</guid>
@@ -235,7 +235,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-814967532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-426758319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -245,7 +245,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-814967532&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-426758319&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
